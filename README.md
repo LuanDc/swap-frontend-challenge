@@ -7,15 +7,21 @@ Esse desafio tem como objetivo avaliar alguns pontos que consideramos importante
 ## Dicas
 
 - Sinta-se a vontade pra escolher a sua stack.
-- Levaremos em consideração apenas as descrições, caso não queira implementar os testes unitários.
+- Caso opte por não implementar os testes unitários, levaremos em consideração apenas as descrições do testes.
 - Layout a sua escolha, a dica aqui é construir apenas o necessário, use seu tempo pra refinamentos a nível de código e usabilidade.
+- Crie um README organizado e documente aspectos importantes do projeto, estrutura de pastas e como rodar o projeto são algumas das dicas.
 
 ## O que iremos avaliar
 
 - Modularização
 - Componentização
+- Documentação
+- Testes unitários
 - CSS patterns
 - Legibilidade
 - Usabilidade
 - Tratamento de erros
 
+## Opcional
+
+- Responsividade
