@@ -1,8 +1,4 @@
-# swap-frontend-challenge
-
-## Bem Vindo
-
-## Sobre a SWAP
+# SWAP frontend challenge
 
 ## Desafio Técnico
 
