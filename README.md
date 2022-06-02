@@ -2,7 +2,7 @@
 
 ## Desafio Técnico
 
-Esse desafio tem como objetivo avaliar alguns pontos que consideramos importantes no processo de desenvolvimento aqui na SWAP. Para isso, queremos que você construa um app Front-End, que acessa uma API chamada [Fake Store AP](https://fakestoreapi.com/docs) e renderiza uma lista de produtos. O usuário também pode filtrar os produtos por categoria.
+Esse desafio tem como objetivo avaliar alguns pontos que consideramos importantes no processo de desenvolvimento aqui na SWAP. Para isso, queremos que você construa um app Front-End, que acessa uma API chamada [Fake Store AP](https://fakestoreapi.com/docs) e renderiza uma lista de produtos. O usuário também pode filtrar os produtos por categoria. Se necessário, use a filtro `limit` para limitar o número de produtos.
 
 ## Dicas
 
@@ -25,3 +25,4 @@ Esse desafio tem como objetivo avaliar alguns pontos que consideramos importante
 ## Opcional
 
 - Responsividade
+- Ordenação
